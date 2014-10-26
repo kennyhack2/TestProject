@@ -2,3 +2,6 @@
 /**
  * Test file
  */
+class Animal {
+
+}
